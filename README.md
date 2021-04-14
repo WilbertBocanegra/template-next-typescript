@@ -1,8 +1,8 @@
 # template-next-typescript-sass-pnpm
 
-#usage
+# usage
 
 
-*pnpm i
+* pnpm i
 
-*pnpm dev
+* pnpm dev
