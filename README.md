@@ -1,4 +1,4 @@
-# template-next-typescript-pnpm
+# template-next-typescript-sass-pnpm
 
 #usage
 
